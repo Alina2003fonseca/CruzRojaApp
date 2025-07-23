@@ -1,7 +1,7 @@
 # CruzRojaApp
 ## 🔗 Enlace al proyecto en FlutterFlow
 
-👉 [Ver Proyecto en FlutterFlow][(https://app.flutterflow.io/project/tu-enlace-aqui](https://app.flutterflow.io/project/cruz-roja-app-ohbdyq))
+https://app.flutterflow.io/project/cruz-roja-app-ohbdyq?tab=pageSelector&page=HomePage
 
 ## 👩‍💻 Integrantes del grupo
 
